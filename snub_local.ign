@@ -1,0 +1,22 @@
+{
+  "ignition": {
+    "version": "3.3.0"
+  },
+  "passwd": {
+    "users": [
+      {
+        "groups": [
+          "wheel",
+          "docker",
+          "sudo",
+          "plugdev"
+        ],
+        "name": "core",
+        "passwordHash": "$1$gDl7nwY3$BWcGw9YKYSMRvytvZL1.//",
+        "sshAuthorizedKeys": [
+          "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDSD2lVdfowAamIrdcVuOtqziQtIuLn/hwL9V13IwAx9H7ES6rTWC3UmRHJiUMl8F5qncQsR6jR9SfX5iGx+jd+sYn3d/eX7jpfGCYqnCwSRxlRhl9mD3xqU0ji05TORfMoJrJm3zVR9TL/qjqrpnQfrMcDXmm9IanZv2A20Pst5FpdZUI//XiSQiHDyTkvg9LBLTN4sP+ZIKtO58pfKlQACZ96RT8RXhAjSzCP1WpbqJxlzZ2zxGiOHeSMraVBIKk52saN7l426o6bgF9wnOAzs//XmcJ071sPDMjloNx0ggdjrFHeUEeCtkhijfttCLqR1ij0INo0khYlD9praS0q3ojVPCYjCDRbb/anKT+DFhghVSZapEjaFHXeAKwuIm/2W1dmO1Rkx0CP/RR5VQumAw3cu4TSUrYkDfvM/rXz5rPZlftJBscDVftXj1JY1Xdul/zzCDdS/Vliw0sXJVPSIDspQ4nROnSFE8M079qg2ehbNP+WTRu9kJ7TTv9dKPU= snub@X1"
+        ]
+      }
+    ]
+  }
+}
